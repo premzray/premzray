@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying Engineering Informatics at the University of Buenos Aires (UBA)
+- 🔭 I’m currently studying Computer Engineering at the University of Buenos Aires (UBA)
 - 🌱 I’m currently learning FRONT-END DEVELOPMENT
 - 📫 How to reach me: ramiropremsilberayexposto@gmail.com
 
